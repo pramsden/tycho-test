@@ -102,15 +102,15 @@
 				<groupId>org.eclipse.tycho</groupId>
 				<artifactId>target-platform-configuration</artifactId>
 				<version>${tycho.version}</version>
-<!--				<configuration>
-					<target>
+				<configuration>
+<!--					<target>
 						<artifact>
 							<groupId>tycho-test</groupId>
 							<artifactId>target</artifactId>
 							<version>1.0.0</version>
 						</artifact>
 					</target>
-					<environments>
+-->					<environments>
 						<environment>
 							<os>win32</os>
 							<ws>win32</ws>
@@ -118,7 +118,7 @@
 						</environment>
 					</environments>
 				</configuration>
--->			</plugin>
+			</plugin>
 			<plugin>
 				<groupId>com.github.spotbugs</groupId>
 				<artifactId>spotbugs-maven-plugin</artifactId>
