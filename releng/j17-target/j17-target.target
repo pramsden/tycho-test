@@ -10,17 +10,13 @@
 -->
 	<locations>
 			<location includeAllPlatforms="false" includeConfigurePhase="true" includeMode="planner" includeSource="true" type="InstallableUnit">
-			<repository location="https://nexus1.lossburg.arburg.com/repository/eclipse-releases-2020-03"/>
-			<unit id="org.eclipse.equinox.sdk.feature.group" version="3.20.100.v20200303-1901"/>
-			<unit id="org.eclipse.platform.sdk" version="4.15.0.I20200305-0155"/>
-			<unit id="org.eclipse.rcp.feature.group" version="4.15.0.v20200305-0155"/>
-			<unit id="org.eclipse.rcp.sdk.id" version="4.15.0.I20200305-0155"/>
-			<unit id="org.eclipse.rcp.source.feature.group" version="4.15.0.v20200305-0155"/>
-			<unit id="org.eclipse.pde.feature.group" version="3.14.300.v20200305-0155"/>
-			<unit id="org.eclipse.m2e.feature.feature.group" version="1.15.0.20200310-1832"/>
-			<unit id="org.eclipse.egit.feature.group" version="5.7.0.202003110725-r"/>
-			<unit id="org.eclipse.jst.ws.cxf.feature.feature.group" version="1.1.500.v201910301957"/>
-			<unit id="org.eclipse.wst.common_core.feature.feature.group" version="3.10.100.v201904082145"/>
+			<repository location="https://download.eclipse.org/eclipse/updates/4.23/"/>
+			<unit id="org.eclipse.equinox.sdk.feature.group" version="0.0.0"/>
+			<unit id="org.eclipse.platform.sdk" version="0.0.0"/>
+			<unit id="org.eclipse.rcp.feature.group" version="0.0.0"/>
+			<unit id="org.eclipse.rcp.sdk.id" version="0.0.0"/>
+			<unit id="org.eclipse.rcp.source.feature.group" version="0.0.0"/>
+			<unit id="org.eclipse.pde.feature.group" version="0.0.0"/>
 		</location>
 	</locations>
 </target>
