@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry exported="true" kind="lib" path="dependency/FastInfoset-2.0.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="dependency/gmbal-api-only-4.0.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="dependency/ha-api-3.1.13.jar"/>
+	<classpathentry exported="true" kind="lib" path="dependency/jakarta.activation-2.0.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="dependency/jakarta.annotation-api-2.0.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="dependency/jakarta.jws-api-3.0.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="dependency/jakarta.mail-2.0.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="dependency/jakarta.xml.bind-api-3.0.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="dependency/jakarta.xml.soap-api-2.0.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="dependency/jakarta.xml.ws-api-3.0.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="dependency/jaxb-core-3.0.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="dependency/jaxb-impl-3.0.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="dependency/jaxws-rt-3.0.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="dependency/management-api-3.2.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="dependency/mimepull-1.9.15.jar"/>
+	<classpathentry exported="true" kind="lib" path="dependency/saaj-impl-2.0.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="dependency/stax2-api-4.2.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="dependency/stax-ex-2.0.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="dependency/streambuffer-2.0.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="dependency/woodstox-core-6.2.6.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-17"/>
+	<classpathentry kind="con" path="org.eclipse.pde.core.requiredPlugins"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
