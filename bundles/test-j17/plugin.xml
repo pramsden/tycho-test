@@ -55,21 +55,14 @@
       </menuContribution>
    </extension>
    <extension
-         point="org.eclipse.core.runtime.products">
-      <product
-            application="testj17.Application"
-            name="testj17.Product">
-      </product>
-   </extension>
-   <extension
          id="product"
          point="org.eclipse.core.runtime.products">
       <product
             application="test-j17.application"
-            name="testj17.product">
+            name="Test app">
          <property
                name="appName"
-               value="testj17.product">
+               value="Test">
          </property>
       </product>
    </extension>

@@ -8,6 +8,6 @@ Require-Bundle: org.eclipse.core.runtime,
  org.apache.felix.scr,
  org.eclipse.equinox.event,
  j17-model;bundle-version="1.0.0"
-Bundle-RequiredExecutionEnvironment: JavaSE-18
+Bundle-RequiredExecutionEnvironment: JavaSE-17
 Import-Package: javax.inject
 Automatic-Module-Name: test.j17
