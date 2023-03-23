@@ -15,6 +15,7 @@
 		<module>releng/j17-target</module>
 		<module>bundles</module>
 		<module>features</module>
+		<module>releng/j17-product</module>
 	</modules>
 </project>
 

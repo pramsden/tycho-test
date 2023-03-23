@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?pde version="3.5"?>
 
-<product name="testj17.product" uid="testj17" id="test-j17.product" application="test-j17.application" useFeatures="true" includeLaunchers="true" autoIncludeRequirements="true">
+<product name="test-j17-product" uid="test-j17-product" id="test-j17-product" application="test-j17.application" version="1.0.0" useFeatures="true" includeLaunchers="true" autoIncludeRequirements="true">
 
    <configIni use="default">
    </configIni>
